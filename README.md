@@ -1,2 +1,3 @@
-# 2D_RANSAC_Practice
-Self practicing RANSAC
+# Panorama with RANSAC
+
+Demo Result
