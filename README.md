@@ -11,4 +11,4 @@ Demo Ressult 2.
 
 
 Citation:  
-\[1\]![Zaragoza, Julio, et al. "As-projective-as-possible image stitching with moving DLT." Proceedings of the IEEE conference on computer vision and pattern recognition. 2013.](https://cs.adelaide.edu.au/~tjchin/apap/)
+![\[1\] Zaragoza, Julio, et al. "As-projective-as-possible image stitching with moving DLT." Proceedings of the IEEE conference on computer vision and pattern recognition. 2013.](https://cs.adelaide.edu.au/~tjchin/apap/)
