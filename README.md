@@ -6,16 +6,16 @@
 2 pipelines were implemented for image stitching, in this case, panorama. They are ORB + RANSAC and ORB + Least Squares. 
 For datasets, I used images from University of Adelaide, CS Dept. Demos below are implemented with case22 and case26 from 2nd dataset. ![Dataset Link](https://cs.adelaide.edu.au/~tjchin/apap/files/images2.zip)  
 
-Case 22 by method 1  
+Case 22 by ORB + RANSAC  
   
   
-Case 22 by method 2  
+Case 22 by ORB + Least Squares  
   
   
-Case 26 by method 1  
+Case 26 by ORB + RANSAC  
   
   
-Case 26 by method 2  
+Case 26 by ORB + Least Squares  
   
   
 Citation:  
