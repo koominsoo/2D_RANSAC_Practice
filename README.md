@@ -1,6 +1,7 @@
-# Image Stitching (Panorama) with 2D Gabor Filter + Least Squares + RANSAC
-
-I used images from University of Adelaide, CS Dept.  
+# Basic Image Stitching (Panorama)
+  
+Main alogrithms were implemented with 2D Gabor Filter + Least Squares + RANSAC.  
+For datasets, I used images from University of Adelaide, CS Dept.  
 Demos below are implemented with case22 and case26 from 2nd dataset.  
 ![Dataset Link](https://cs.adelaide.edu.au/~tjchin/apap/files/images2.zip)  
 
