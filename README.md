@@ -1,14 +1,20 @@
 # Basic Image Stitching (Panorama)
   
-Main alogrithms were implemented with 2D Gabor Filter + RANSAC.  
+2 pipelines were implemented. They are 2D Gabor Filter + RANSAC and 2D Gabor Filter + Least Squares. 
 For datasets, I used images from University of Adelaide, CS Dept.  
 Demos below are implemented with case22 and case26 from 2nd dataset.  
 ![Dataset Link](https://cs.adelaide.edu.au/~tjchin/apap/files/images2.zip)  
 
-Demo Result 1.
+Case 22 by method 1  
   
   
-Demo Ressult 2.  
+Case 22 by method 2  
+  
+  
+Case 26 by method 1  
+  
+  
+Case 26 by method 2  
   
   
 Citation:  
