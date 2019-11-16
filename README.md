@@ -24,5 +24,5 @@ Citation:
 [\[3\] Rublee, Ethan, et al. "ORB: An efficient alternative to SIFT or SURF." ICCV. Vol. 11. No. 1. 2011.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.370.4395&rep=rep1&type=pdf)  
 [\[4\] Fischler, Martin A., and Robert C. Bolles. "Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography." Communications of the ACM 24.6 (1981): 381-395.](https://dl.acm.org/citation.cfm?id=358692)
 
-Assistive Materials
+Assistive Materials:  
 [\[1\] Bethmann, Folkmar, and Thomas Luhmann. "Least-squares matching with advanced geometric transformation models." Photogrammetrie-Fernerkundung-Geoinformation 2011.2 (2011): 57-69.](https://www.isprs.org/proceedings/xxxvIII/part5/papers/89.pdf)
