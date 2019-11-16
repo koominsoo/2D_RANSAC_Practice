@@ -1,6 +1,6 @@
-# Basic Image Stitching (Panorama)
+# Image Stitching
   
-2 pipelines were implemented. They are SURF + RANSAC and SURF + Least Squares. 
+2 pipelines were implemented for image stitching, in this case, panorama. They are SURF + RANSAC and SURF + Least Squares. 
 For datasets, I used images from University of Adelaide, CS Dept.  
 Demos below are implemented with case22 and case26 from 2nd dataset.  
 ![Dataset Link](https://cs.adelaide.edu.au/~tjchin/apap/files/images2.zip)  
