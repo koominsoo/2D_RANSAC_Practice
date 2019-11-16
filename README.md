@@ -1,4 +1,7 @@
-# Image Stitching
+# Rule-based Image Stitching  
+  
+Kr: 파노라마  
+Cn: 全景画卷  
   
 2 pipelines were implemented for image stitching, in this case, panorama. They are SURF + RANSAC and SURF + Least Squares. 
 For datasets, I used images from University of Adelaide, CS Dept.  
