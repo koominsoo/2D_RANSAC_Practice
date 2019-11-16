@@ -1,5 +1,7 @@
-# Panorama with RANSAC
+# 
 
-Photo Source: http://coolphotojapan.com/coolphotojapan/fantastic-panoramic-shibuyatokyojapan
+Panorama Image Source: https://cs.adelaide.edu.au/~tjchin/apap/
+
+
 
 Demo Result
