@@ -1,21 +1,21 @@
-# Image Stitching (Panorama)  
+# Image Stitching (or Panorama)
   
 **KR-CN-JP:** 파노라마 - 全景画卷 - パノラマ  
 **Keywords:** ORB (Oriented FAST and rotated BRIEF), RANSAC (RANdom SAmple Consensus)
   
 2 pipelines were implemented for image stitching, in this case, panorama. They are ORB + RANSAC and ORB + Least Squares. 
-For datasets, I used images from University of Adelaide, CS Dept. Demos below are implemented with case22 and case26 from 2nd dataset. ![Dataset Link](https://cs.adelaide.edu.au/~tjchin/apap/files/images2.zip)  
+For datasets, Please follow [this link](https://drive.google.com/drive/folders/1VknpdDWw_AP_k91-w0B2hFGiv_4wnenm?usp=sharing).
 
-  Fig 1. Case 22 by ORB + RANSAC  
+Fig 1. Case 22 by ORB + RANSAC  
   
   
-  Fig 2. Case 22 by ORB + Least Squares  
+Fig 2. Case 22 by ORB + Least Squares  
   
   
-  Fig 3. Case 26 by ORB + RANSAC  
+Fig 3. Case 26 by ORB + RANSAC  
   
   
-  Fig 4. Case 26 by ORB + Least Squares  
+Fig 4. Case 26 by ORB + Least Squares  
   
   
 Citation:  
