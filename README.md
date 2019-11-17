@@ -1,7 +1,7 @@
 # Image Stitching (or Panorama)
   
 **KR-CN-JP:** 파노라마 - 全景画卷 - パノラマ  
-**Keywords:** ORB (Oriented FAST and rotated BRIEF), RANSAC (RANdom SAmple Consensus)
+**Keywords:** ORB (Oriented FAST and rotated BRIEF), RANSAC (RANdom SAmple Consensus)  
 **Key-translations:** Least Squares Image Matching(最小二乘影像匹配)  
   
 2 pipelines were implemented for image stitching, in this case, panorama. They are ORB + RANSAC and ORB + Least Squares. 
